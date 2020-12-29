@@ -9,6 +9,8 @@
 plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
     id 'application'
+    // A gradle-plugin to create windows executables with launch4j for Java application.
+    id "edu.sc.seis.launch4j" version "2.4.9"
 }
 
 repositories {
@@ -27,6 +29,7 @@ dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:29.0-jre'
 
+    // We create platforms to promote software literacy within the visual arts
     implementation 'org.processing:core:3.3.7'
 }
 
