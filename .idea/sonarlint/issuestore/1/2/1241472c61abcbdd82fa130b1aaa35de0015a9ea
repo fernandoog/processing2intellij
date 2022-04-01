@@ -1,0 +1,45 @@
+
+P	java:S125$"<This block of commented-out lines of code should be removed.(ƒĞİH
+Q	java:S125("<This block of commented-out lines of code should be removed.(«ÊÏ½
+`
+java:S1124u"EReorder the modifiers to comply with the Java Language Specification.(‚ØÄùÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(œô«İıÿÿÿÿ
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(ÄÿÍ¤
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(ÄÿÍ¤
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ÿØà°
+W	java:S125²"<This block of commented-out lines of code should be removed.(»ìùûÿÿÿÿ
+I
+java:S1135´"2Complete the task associated to this TODO comment.(èÓÅ‘
+R	java:S125¾"<This block of commented-out lines of code should be removed.(ÿØà°
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(³òúøùÿÿÿÿ
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(õİéš
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(ÿØà°
+Q
+java:S1161Œ":Add the "@Override" annotation above this method signature(„ç
+Y
+java:S1172®"=Remove these unused method parameters "red", "green", "blue".(Ö€°ïúÿÿÿÿ
+^
+java:S1192D"HDefine a constant instead of duplicating this literal "al8.mp3" 3 times.( øóÓ
+K
+java:S1066¶"/Merge this if statement with the enclosing one.(ÛæØşÿÿÿÿ
+K
+java:S1066·"/Merge this if statement with the enclosing one.(šÂªÈÿÿÿÿÿ
+X
+java:S2184‹"ACast one of the operands of this division operation to a "float".(»‚·Û
+X
+java:S2184‹"ACast one of the operands of this division operation to a "float".(»‚·Û
+V
+java:S2184µ"@Cast one of the operands of this integer division to a "double".(ä¦Õ3
+V
+java:S2184µ"@Cast one of the operands of this integer division to a "double".(ä¦Õ3
+\
+java:S2184¶"@Cast one of the operands of this integer division to a "double".(ÛæØşÿÿÿÿ
+\
+java:S2184¶"@Cast one of the operands of this integer division to a "double".(ÛæØşÿÿÿÿ
+\
+java:S2184·"@Cast one of the operands of this integer division to a "double".(šÂªÈÿÿÿÿÿ
+\
+java:S2184·"@Cast one of the operands of this integer division to a "double".(šÂªÈÿÿÿÿÿ

@@ -6,10 +6,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-class AppTest {
+class SketchTest {
     @Test
     void appHasAGreeting() {
-        App classUnderTest = new App();
-        assertNotNull(classUnderTest, "Processing Fail");
+        //Sketch classUnderTest = new Sketch();
+       //assertNotNull(classUnderTest, "Processing Fail");
     }
 }

@@ -5,26 +5,38 @@ plugins {
     id 'application'
     // A gradle-plugin to create windows executables with launch4j for Java application.
     id "edu.sc.seis.launch4j" version "2.4.9"
+    // java
+    id 'java'
 }
+
+group 'org.fernandoog'
+version '1.0-SNAPSHOT'
 
 repositories {
     // Use JCenter for resolving dependencies.
     jcenter()
+    mavenCentral()
 }
 
 dependencies {
 
     // Use JUnit Jupiter API for testing.
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
 
     // Use JUnit Jupiter Engine for testing.
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:29.0-jre'
 
     // We create platforms to promote software literacy within the visual arts
     implementation 'org.processing:core:3.3.7'
+
+    // SimpleOpenNI
+    implementation files('lib/SimpleOpenNI.jar')
+
+    //Minim sound
+    implementation files('lib/minim.jar')
 }
 
 application {
